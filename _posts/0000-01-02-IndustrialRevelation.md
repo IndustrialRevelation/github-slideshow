@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Spray-paint manifestos of one word line the opulent mansions of decay
+Something new
 Use the left arrow to go back!
